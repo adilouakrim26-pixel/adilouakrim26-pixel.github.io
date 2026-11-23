@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.kitabna.app",
+    "sha256_cert_fingerprints": ["13:9E:96:40:2C:32:D5:4A:4C:37:B2:91:62:EC:FF:8E:7A:03:5E:6A:EC:1F:B8:C4:71:65:79:B2:44:76:CD:D9"]
+  }
+}]
